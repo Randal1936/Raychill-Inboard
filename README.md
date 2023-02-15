@@ -1,4 +1,5 @@
 # Raychill-Inboard
+##### Attention:Raychill was launched on 2021.1.9, lasted for a year and it is forfeited now.
 That's a bookkeeping program designed for my personal fund, Raychill Capital.
 (A personal fund is, in a word, a sum of money raised among friends and classmates.)
 
